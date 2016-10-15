@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        System.out.println( "s13911 ZIĄĄ" );
         System.out.println( "s13785!" );
     }
 }
